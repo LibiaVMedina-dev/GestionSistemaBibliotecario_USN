@@ -106,3 +106,14 @@ java -cp "bin;lib/*" PruebaBD
 
 Los `.jar` no están excluidos por `.gitignore` y deben mantenerse en el
 repositorio para que el proyecto funcione sin una descarga adicional.
+
+
+## Credenciales de Prueba para Revisión
+
+Para probar el sistema de escritorio Java Swing y la base de datos MariaDB/MySQL:
+
+| Rol | Código Institucional | Contraseña | Permisos |
+| :--- | :--- | :--- | :--- |
+| **Administrador** | `N00156923` | `admin123` | Acceso a Libros, Préstamos, Usuarios y Reportes |
+| **Estudiante** | `N00312345` | `estudiante123` | Validado para restricción de acceso en login |
+---
