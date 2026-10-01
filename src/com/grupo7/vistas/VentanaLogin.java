@@ -159,7 +159,7 @@ public class VentanaLogin extends JFrame {
 
     private void procesarResultado(ResultadoLogin resultado) {
         if (!resultado.exitoso()) {
-            lblAviso.setText("<html><div style='width:320px; text-align:center'>"
+            lblAviso.setText("<html><div style='width:280px; text-align:center'>"
                     + resultado.mensaje() + "</div></html>");
             if (resultado.mensaje().startsWith("Credenciales")) {
                 txtContrasena.setText("");
