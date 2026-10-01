@@ -1,0 +1,6 @@
+# Credenciales locales de base de datos
+config/database.properties
+
+# Compilados de Java
+bin/
+*.class
