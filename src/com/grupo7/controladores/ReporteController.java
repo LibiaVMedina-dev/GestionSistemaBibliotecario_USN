@@ -74,7 +74,7 @@ public final class ReporteController {
                 .sum();
 
             return """
-                REPORTE DE LA BIBLIOTECA PAGETURNER
+                REPORTE DE LA BIBLIOTECA UNIVERSIDAD SUPERIOR NOVA
                 Fecha: %s
 
                 USUARIOS

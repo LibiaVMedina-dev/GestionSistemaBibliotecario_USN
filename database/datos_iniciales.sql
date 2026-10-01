@@ -1,5 +1,5 @@
 -- =============================================================
--- Datos iniciales del Sistema de Biblioteca PageTurner
+-- Datos iniciales del Sistema de BIBLIOTECA UNIVERSIDAD SUPERIOR NOVA
 -- -------------------------------------------------------------
 -- El schema.sql solo crea las tablas y el actualizacion_v2.sql
 -- agrega las columnas de contrasena, dni, anio y categoria.

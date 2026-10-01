@@ -37,7 +37,7 @@ public class VentanaLogin extends JFrame {
     private final JLabel lblAviso = new JLabel(" ");
 
     public VentanaLogin() {
-        setTitle("Biblioteca PageTurner - Ingreso");
+        setTitle("BIBLIOTECA UNIVERSIDAD SUPERIOR NOVA - Ingreso");
         setSize(440, 330);
         setLocationRelativeTo(null);
         setResizable(false);
@@ -58,7 +58,7 @@ public class VentanaLogin extends JFrame {
         panel.setBackground(new Color(38, 79, 120));
         panel.setBorder(BorderFactory.createEmptyBorder(12, 10, 12, 10));
 
-        JLabel titulo = new JLabel("BIBLIOTECA PAGETURNER", JLabel.CENTER);
+        JLabel titulo = new JLabel("BIBLIOTECA UNIVERSIDAD SUPERIOR NOVA", JLabel.CENTER);
         titulo.setForeground(Color.WHITE);
         titulo.setFont(new Font("Arial", Font.BOLD, 18));
 

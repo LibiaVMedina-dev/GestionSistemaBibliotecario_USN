@@ -1,5 +1,5 @@
 -- =============================================================
--- Actualizacion v2 del esquema - Sistema Biblioteca PageTurner
+-- Actualizacion v2 del esquema - Sistema BIBLIOTECA UNIVERSIDAD SUPERIOR NOVA
 -- -------------------------------------------------------------
 -- El schema.sql original (de Arturo) creaba las tablas, pero le
 -- faltaban columnas que pide el documento del proyecto:

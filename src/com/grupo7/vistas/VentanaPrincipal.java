@@ -26,7 +26,7 @@ public class VentanaPrincipal extends JFrame {
     public VentanaPrincipal(Bibliotecario usuario) {
         this.usuario = usuario;
 
-        setTitle("Biblioteca PageTurner - Menu principal");
+        setTitle("BIBLIOTECA UNIVERSIDAD SUPERIOR NOVA - Menu principal");
         setSize(1020, 660);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(EXIT_ON_CLOSE);

@@ -1,4 +1,4 @@
-# Sistema de Biblioteca PageTurner
+# Sistema de BIBLIOTECA UNIVERSIDAD SUPERIOR NOVA
 
 Proyecto Java Swing desarrollado con Java 21 y JDBC. La base de datos puede
 ejecutarse en MariaDB o MySQL.
